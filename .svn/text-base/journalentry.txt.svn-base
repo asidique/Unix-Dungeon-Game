@@ -1,0 +1,835 @@
+Welcome, asseel
+Recorded on: Wed Dec  3 10:45:36 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 10:45:59 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 10:46:01 EST 2014 
+
+A monster blocks your path! Type Look to see what it is.
+Recorded on: Wed Dec  3 10:46:02 EST 2014 
+
+Welcome, d
+Recorded on: Wed Dec  3 11:17:38 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:18:06 EST 2014 
+
+You have moved west
+Recorded on: Wed Dec  3 11:18:10 EST 2014 
+
+(2,-1)
+Recorded on: Wed Dec  3 11:18:10 EST 2014 
+
+You found treasure chest with a giant water bottle, a SWORD and a TORNADO scroll! Take or Leave?
+Recorded on: Wed Dec  3 11:18:12 EST 2014 
+
+You took the gear
+Recorded on: Wed Dec  3 11:18:15 EST 2014 
+
+
+HEALTH:100
+
+Recorded on: Wed Dec  3 11:18:15 EST 2014 
+
+
+MAGIC:TORNADO
+
+Recorded on: Wed Dec  3 11:18:15 EST 2014 
+
+
+WEAPON:SWORD
+
+Recorded on: Wed Dec  3 11:18:15 EST 2014 
+
+
+d
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+Health:100
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+Weapon:SWORD
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+Magic:TORNADO
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+Armor:NONE
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+PlayerItem: NONE
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+PlayerItem2: NONE
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+PLAYERATTACK:25
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+PLAYERDEFENCE:0
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+MAGICATTACK:70
+Recorded on: Wed Dec  3 11:18:18 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:18:22 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:18:23 EST 2014 
+
+A monster blocks your path! Type Look to see what it is.
+Recorded on: Wed Dec  3 11:18:24 EST 2014 
+
+You attacked LEO
+Recorded on: Wed Dec  3 11:18:26 EST 2014 
+
+
+LEO 
+HEALTH:30
+Recorded on: Wed Dec  3 11:18:26 EST 2014 
+
+
+LEO attacked you!
+Recorded on: Wed Dec  3 11:18:28 EST 2014 
+
+
+HEALTH:90
+Recorded on: Wed Dec  3 11:18:29 EST 2014 
+
+
+PLAYERDEFENCE:0
+
+Recorded on: Wed Dec  3 11:18:29 EST 2014 
+
+You attacked LEO
+Recorded on: Wed Dec  3 11:18:29 EST 2014 
+
+
+LEO 
+HEALTH:-40
+Recorded on: Wed Dec  3 11:18:29 EST 2014 
+
+You killed LEO !
+Recorded on: Wed Dec  3 11:18:31 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:18:33 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:18:34 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:18:35 EST 2014 
+
+You found a MAP! Type MAP to view the map. Clear the screen before you do it!
+Recorded on: Wed Dec  3 11:18:36 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:18:36 EST 2014 
+
+[11;1H--  --
+ 1 
+------
+[7;2H|---|
+[8;2H|   |
+[9;2H|1 C|
+[10;2H|   |
+[11;7H--  --
+[12;7H   2M   
+[13;7H--  --
+[14;8H|   |
+[15;8H|-1 |
+[16;8H|   |
+[17;8H|---|
+[10;8H|   |
+[9;8H|1  |
+[8;8H|   |
+[7;8H|---|
+[11;13H------
+[12;13H   3    
+[13;13H--  --
+[14;14H|   |
+[15;14H|-1T|
+[16;14H|   |
+[17;14H|---|
+[11;18H--  --
+[12;18H   4    
+[13;18H------
+[10;19H|1 M|
+[9;19H|---|
+[8;19H|2 C|
+[7;19H|---|
+[11;23H------
+[12;23H   5    
+[13;23H--  --
+[14;24H|   |
+[15;24H|-1 |
+[16;24H|   |
+[17;24H|---|
+[11;29H--  --
+[12;29H   6T    
+[13;29H------
+[7;30H|---|
+[8;30H|2  |
+[9;30H|---|
+[10;30H|1 M|
+[11;35H------
+[12;35H   7    
+[13;35H--  --
+[14;36H|-1M|
+[15;36H|---|
+[16;36H|-2 |
+[17;36H|---|
+[11;41H------
+[12;41H   8    
+[13;41H------
+[11;47H--  --
+[12;47H   9    
+[13;47H------
+[7;48H|---|
+[8;48H|2 C|
+[9;48H|---|
+[10;48H|1 T|
+[11;53H---------
+[12;53H  ?M?   \|
+[13;53H---------
+[7;61HSOUTH<---->NORTH
+[5;61H        ^EAST  
+[6;61H        |   
+[8;61H        |   
+[9;61H        \/WEST  
+[13;71HM = MONSTER
+[14;71HT = TRAP
+[15;71HC = CHEST
+[21;1HRecorded on: Wed Dec  3 11:18:38 EST 2014 
+
+GAS TRAP! Armor can't protect you! Every move you make will hurt you while you are here!
+Recorded on: Wed Dec  3 11:18:38 EST 2014 
+
+
+HEALTH:85
+
+Recorded on: Wed Dec  3 11:18:38 EST 2014 
+
+GAS TRAP! Armor can't protect you! Every move you make will hurt you while you are here!
+Recorded on: Wed Dec  3 11:18:40 EST 2014 
+
+
+HEALTH:80
+
+Recorded on: Wed Dec  3 11:18:40 EST 2014 
+
+[11;1H--  --
+ 1 
+------
+[7;2H|---|
+[8;2H|   |
+[9;2H|1 C|
+[10;2H|   |
+[11;7H--  --
+[12;7H   2M   
+[13;7H--  --
+[14;8H|   |
+[15;8H|-1 |
+[16;8H|   |
+[17;8H|---|
+[10;8H|   |
+[9;8H|1  |
+[8;8H|   |
+[7;8H|---|
+[11;13H------
+[12;13H   3    
+[13;13H--  --
+[14;14H|   |
+[15;14H|-1T|
+[16;14H|   |
+[17;14H|---|
+[11;18H--  --
+[12;18H   4    
+[13;18H------
+[10;19H|1 M|
+[9;19H|---|
+[8;19H|2 C|
+[7;19H|---|
+[11;23H------
+[12;23H   5    
+[13;23H--  --
+[14;24H|   |
+[15;24H|-1 |
+[16;24H|   |
+[17;24H|---|
+[11;29H--  --
+[12;29H   6T    
+[13;29H------
+[7;30H|---|
+[8;30H|2  |
+[9;30H|---|
+[10;30H|1 M|
+[11;35H------
+[12;35H   7    
+[13;35H--  --
+[14;36H|-1M|
+[15;36H|---|
+[16;36H|-2 |
+[17;36H|---|
+[11;41H------
+[12;41H   8    
+[13;41H------
+[11;47H--  --
+[12;47H   9    
+[13;47H------
+[7;48H|---|
+[8;48H|2 C|
+[9;48H|---|
+[10;48H|1 T|
+[11;53H---------
+[12;53H  ?M?   \|
+[13;53H---------
+[7;61HSOUTH<---->NORTH
+[5;61H        ^EAST  
+[6;61H        |   
+[8;61H        |   
+[9;61H        \/WEST  
+[13;71HM = MONSTER
+[14;71HT = TRAP
+[15;71HC = CHEST
+[21;1HRecorded on: Wed Dec  3 11:18:42 EST 2014 
+
+GAS TRAP! Armor can't protect you! Every move you make will hurt you while you are here!
+Recorded on: Wed Dec  3 11:18:42 EST 2014 
+
+
+HEALTH:75
+
+Recorded on: Wed Dec  3 11:18:42 EST 2014 
+
+GAS TRAP! Armor can't protect you! Every move you make will hurt you while you are here!
+Recorded on: Wed Dec  3 11:18:43 EST 2014 
+
+
+HEALTH:70
+
+Recorded on: Wed Dec  3 11:18:43 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:18:44 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:18:45 EST 2014 
+
+A monster blocks your path! Type Look to see what it is.
+Recorded on: Wed Dec  3 11:18:46 EST 2014 
+
+As you crawl through the rubble, there is laughter. But they're not your laughs. You look up and see the DUNGEON MASTER! Prepare yourself!
+
+The room has a strange magical mist. Behind the monster is a crawling space. What could be there?
+
+To your north is a wall.
+To your south is a wall.
+To your east is crawling space.
+To your west is rubble. It seems you can fit through.
+
+Recorded on: Wed Dec  3 11:18:49 EST 2014 
+
+
+A wild DUNGEON_KEEPER has appeared
+Recorded on: Wed Dec  3 11:18:49 EST 2014 
+
+
+DUNGEON_KEEPER
+HEALTH:150
+ATTACKPWR:20
+Recorded on: Wed Dec  3 11:18:49 EST 2014 
+
+You attacked DUNGEON_KEEPER
+Recorded on: Wed Dec  3 11:18:50 EST 2014 
+
+
+DUNGEON_KEEPER 
+HEALTH:80
+Recorded on: Wed Dec  3 11:18:50 EST 2014 
+
+
+DUNGEON_KEEPER attacked you!
+Recorded on: Wed Dec  3 11:18:52 EST 2014 
+
+
+HEALTH:50
+Recorded on: Wed Dec  3 11:18:53 EST 2014 
+
+
+PLAYERDEFENCE:0
+
+Recorded on: Wed Dec  3 11:18:53 EST 2014 
+
+You attacked DUNGEON_KEEPER
+Recorded on: Wed Dec  3 11:18:53 EST 2014 
+
+
+DUNGEON_KEEPER 
+HEALTH:10
+Recorded on: Wed Dec  3 11:18:53 EST 2014 
+
+
+DUNGEON_KEEPER attacked you!
+Recorded on: Wed Dec  3 11:18:55 EST 2014 
+
+
+HEALTH:30
+Recorded on: Wed Dec  3 11:18:56 EST 2014 
+
+
+PLAYERDEFENCE:0
+
+Recorded on: Wed Dec  3 11:18:56 EST 2014 
+
+You attacked DUNGEON_KEEPER
+Recorded on: Wed Dec  3 11:18:56 EST 2014 
+
+
+DUNGEON_KEEPER 
+HEALTH:-60
+Recorded on: Wed Dec  3 11:18:56 EST 2014 
+
+You killed DUNGEON_KEEPER !
+Recorded on: Wed Dec  3 11:18:58 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:19:01 EST 2014 
+
+
+HEALTH:100
+Recorded on: Wed Dec  3 11:19:03 EST 2014 
+
+
+HEALTH:100
+Recorded on: Wed Dec  3 11:19:07 EST 2014 
+
+Smart move crawling through the hole. You are awarded once again. There is magical mist in the air. Your health points increase to 100! Seems the mist has an effect on you.
+
+To your north is a wall.
+To your south is wall.
+To your east is a wall.
+To your west is a wall.
+
+Recorded on: Wed Dec  3 11:19:07 EST 2014 
+
+
+HEALTH:100
+Recorded on: Wed Dec  3 11:19:09 EST 2014 
+
+
+HEALTH:100
+Recorded on: Wed Dec  3 11:19:09 EST 2014 
+
+You have moved west
+Recorded on: Wed Dec  3 11:19:10 EST 2014 
+
+(6,1)
+Recorded on: Wed Dec  3 11:19:10 EST 2014 
+
+You have moved west
+Recorded on: Wed Dec  3 11:19:12 EST 2014 
+
+(6,0)
+Recorded on: Wed Dec  3 11:19:12 EST 2014 
+
+GAS TRAP! Armor can't protect you! Every move you make will hurt you while you are here!
+Recorded on: Wed Dec  3 11:19:12 EST 2014 
+
+
+HEALTH:95
+
+Recorded on: Wed Dec  3 11:19:12 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:19:13 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:19:14 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:19:16 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:19:17 EST 2014 
+
+You're trapped! Such a shame..
+Recorded on: Wed Dec  3 11:19:18 EST 2014 
+
+
+HEALTH:70
+Recorded on: Wed Dec  3 11:19:18 EST 2014 
+
+You attempt to use your SWORD to free yourself.
+Recorded on: Wed Dec  3 11:19:21 EST 2014 
+
+Recorded on: Wed Dec  3 11:19:21 EST 2014 
+
+You are trapped and cannot move
+Recorded on: Wed Dec  3 11:19:23 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:19:23 EST 2014 
+
+You are trapped and cannot move
+Recorded on: Wed Dec  3 11:19:23 EST 2014 
+
+You are trapped and cannot move
+Recorded on: Wed Dec  3 11:19:27 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:19:27 EST 2014 
+
+You are trapped and cannot move
+Recorded on: Wed Dec  3 11:19:27 EST 2014 
+
+You attempt to use your SWORD to free yourself.
+Recorded on: Wed Dec  3 11:19:28 EST 2014 
+
+Recorded on: Wed Dec  3 11:19:28 EST 2014 
+
+The wind suddenly picks up from no where.
+	Dirt is rising from the floor.
+		The dirt condensed into sharp shards.
+			And breaks you free from the netting.
+Recorded on: Wed Dec  3 11:19:31 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:19:35 EST 2014 
+
+Welcome, asseel
+Recorded on: Wed Dec  3 11:24:49 EST 2014 
+
+Welcome, clear
+Recorded on: Wed Dec  3 11:26:50 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:27:19 EST 2014 
+
+You have moved south
+Recorded on: Wed Dec  3 11:27:21 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:27:22 EST 2014 
+
+You have moved west
+Recorded on: Wed Dec  3 11:27:24 EST 2014 
+
+(2,-1)
+Recorded on: Wed Dec  3 11:27:24 EST 2014 
+
+You found treasure chest with a giant water bottle, a SWORD and a TORNADO scroll! Take or Leave?
+Recorded on: Wed Dec  3 11:27:25 EST 2014 
+
+You took the gear
+Recorded on: Wed Dec  3 11:27:27 EST 2014 
+
+
+HEALTH:100
+
+Recorded on: Wed Dec  3 11:27:27 EST 2014 
+
+
+MAGIC:TORNADO
+
+Recorded on: Wed Dec  3 11:27:27 EST 2014 
+
+
+WEAPON:SWORD
+
+Recorded on: Wed Dec  3 11:27:27 EST 2014 
+
+You have moved west
+Recorded on: Wed Dec  3 11:27:31 EST 2014 
+
+Cannot go this way
+Recorded on: Wed Dec  3 11:27:31 EST 2014 
+
+(2,-1)
+Recorded on: Wed Dec  3 11:27:31 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 11:27:33 EST 2014 
+
+Welcome, Asseel
+Recorded on: Wed Dec  3 11:28:39 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:28:41 EST 2014 
+
+You have moved south
+Recorded on: Wed Dec  3 11:28:42 EST 2014 
+
+Welcome, Asseel
+Recorded on: Wed Dec  3 11:28:56 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 11:29:28 EST 2014 
+
+Welcome, Asseel
+Recorded on: Wed Dec  3 17:31:27 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 17:33:23 EST 2014 
+
+You have moved south
+Recorded on: Wed Dec  3 17:33:25 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 17:33:27 EST 2014 
+
+You have moved east
+Recorded on: Wed Dec  3 17:33:28 EST 2014 
+
+You have moved west
+Recorded on: Wed Dec  3 17:33:29 EST 2014 
+
+(2,0)
+Recorded on: Wed Dec  3 17:33:29 EST 2014 
+
+You have moved north
+Recorded on: Wed Dec  3 17:33:31 EST 2014 
+
+A monster blocks your path! Type Look to see what it is.
+Recorded on: Wed Dec  3 17:33:32 EST 2014 
+
+Welcome, Vince Rauti
+Recorded on: Thu Dec  4 16:34:51 EST 2014 
+
+
+You see and hear almost nothing in the first room. It smells like old bacon and dirt. There is a door to your east, but the hall continues down north. You should probably check the door first, in case you get lost.
+
+To your north you see more darkness that you may travel through.
+To your south is a blocked entrance. 
+To your east is a half open door.
+To your west is a wall. 
+
+Recorded on: Thu Dec  4 16:35:15 EST 2014 
+
+You have moved south
+Recorded on: Thu Dec  4 16:35:20 EST 2014 
+
+Cannot go this way
+Recorded on: Thu Dec  4 16:35:20 EST 2014 
+
+Welcome, Asseel
+Recorded on: Thu Dec  4 16:40:11 EST 2014 
+
+You have moved north
+Recorded on: Thu Dec  4 16:40:46 EST 2014 
+
+You have moved west
+Recorded on: Thu Dec  4 16:40:49 EST 2014 
+
+(2,-1)
+Recorded on: Thu Dec  4 16:40:49 EST 2014 
+
+You found treasure chest with a giant water bottle, a SWORD and a TORNADO scroll! Take or Leave?
+Recorded on: Thu Dec  4 16:40:51 EST 2014 
+
+You took the gear
+Recorded on: Thu Dec  4 16:40:53 EST 2014 
+
+
+HEALTH:100
+
+Recorded on: Thu Dec  4 16:40:53 EST 2014 
+
+
+MAGIC:TORNADO
+
+Recorded on: Thu Dec  4 16:40:53 EST 2014 
+
+
+WEAPON:SWORD
+
+Recorded on: Thu Dec  4 16:40:53 EST 2014 
+
+Today is your lucky day today! Another treasure chest lies in front of you in the middle of the room. It seems luck is on your side today. There doesn''t seem to be anything else interesting in the room.
+
+To your north is a wall.
+To your south is a wall. 
+To your east is a door, from which you entered.
+To your west is a wall. 
+
+Recorded on: Thu Dec  4 16:40:53 EST 2014 
+
+You have moved west
+Recorded on: Thu Dec  4 16:40:55 EST 2014 
+
+Cannot go this way
+Recorded on: Thu Dec  4 16:40:55 EST 2014 
+
+(2,-1)
+Recorded on: Thu Dec  4 16:40:55 EST 2014 
+
+You have moved east
+Recorded on: Thu Dec  4 16:40:57 EST 2014 
+
+Welcome, Asseel
+Recorded on: Thu Dec  4 16:55:39 EST 2014 
+
+You have moved north
+Recorded on: Thu Dec  4 16:55:59 EST 2014 
+
+You have moved east
+Recorded on: Thu Dec  4 16:56:02 EST 2014 
+
+You have moved west
+Recorded on: Thu Dec  4 16:56:03 EST 2014 
+
+(2,0)
+Recorded on: Thu Dec  4 16:56:03 EST 2014 
+
+You have moved west
+Recorded on: Thu Dec  4 16:56:04 EST 2014 
+
+(2,-1)
+Recorded on: Thu Dec  4 16:56:04 EST 2014 
+
+You found treasure chest with a giant water bottle, a SWORD and a TORNADO scroll! Take or Leave?
+Recorded on: Thu Dec  4 16:56:07 EST 2014 
+
+You took the gear
+Recorded on: Thu Dec  4 16:56:08 EST 2014 
+
+
+HEALTH:100
+
+Recorded on: Thu Dec  4 16:56:08 EST 2014 
+
+
+MAGIC:TORNADO
+
+Recorded on: Thu Dec  4 16:56:08 EST 2014 
+
+
+WEAPON:SWORD
+
+Recorded on: Thu Dec  4 16:56:08 EST 2014 
+
+You have moved east
+Recorded on: Thu Dec  4 16:56:09 EST 2014 
+
+You attacked LEO
+Recorded on: Thu Dec  4 17:02:23 EST 2014 
+
+
+LEO 
+HEALTH:30
+Recorded on: Thu Dec  4 17:02:23 EST 2014 
+
+
+LEO attacked you!
+Recorded on: Thu Dec  4 17:02:25 EST 2014 
+
+
+HEALTH:90
+Recorded on: Thu Dec  4 17:02:26 EST 2014 
+
+
+PLAYERDEFENCE:0
+
+Recorded on: Thu Dec  4 17:02:26 EST 2014 
+
+You attacked LEO
+Recorded on: Thu Dec  4 17:02:26 EST 2014 
+
+
+LEO 
+HEALTH:-40
+Recorded on: Thu Dec  4 17:02:26 EST 2014 
+
+You killed LEO !
+Recorded on: Thu Dec  4 17:02:28 EST 2014 
+
+You have moved north
+Recorded on: Thu Dec  4 17:02:35 EST 2014 
+
+Welcome, Asseel
+Recorded on: Sat Dec  6 11:08:57 EST 2014 
+
+You have moved north
+Recorded on: Sat Dec  6 11:09:20 EST 2014 
+
+You have moved west
+Recorded on: Sat Dec  6 11:09:21 EST 2014 
+
+(2,-1)
+Recorded on: Sat Dec  6 11:09:21 EST 2014 
+
+You found treasure chest with a giant water bottle, a SWORD and a TORNADO scroll! Take or Leave?
+Recorded on: Sat Dec  6 11:09:23 EST 2014 
+
+You took the gear
+Recorded on: Sat Dec  6 11:09:25 EST 2014 
+
+
+HEALTH:100
+
+Recorded on: Sat Dec  6 11:09:25 EST 2014 
+
+
+MAGIC:TORNADO
+
+Recorded on: Sat Dec  6 11:09:25 EST 2014 
+
+
+WEAPON:SWORD
+
+Recorded on: Sat Dec  6 11:09:25 EST 2014 
+
+Today is your lucky day today! Another treasure chest lies in front of you in the middle of the room. It seems luck is on your side today. There doesn''t seem to be anything else interesting in the room.
+
+To your north is a wall.
+To your south is a wall. 
+To your east is a door, from which you entered.
+To your west is a wall. 
+
+Recorded on: Sat Dec  6 11:09:25 EST 2014 
+
+You have moved east
+Recorded on: Sat Dec  6 11:09:28 EST 2014 
+
+You attacked LEO
+Recorded on: Sat Dec  6 11:09:33 EST 2014 
+
+
+LEO 
+HEALTH:30
+Recorded on: Sat Dec  6 11:09:33 EST 2014 
+
+
+LEO attacked you!
+Recorded on: Sat Dec  6 11:09:35 EST 2014 
+
+
+HEALTH:90
+Recorded on: Sat Dec  6 11:09:36 EST 2014 
+
+
+PLAYERDEFENCE:0
+
+Recorded on: Sat Dec  6 11:09:36 EST 2014 
+
+You attacked LEO
+Recorded on: Sat Dec  6 11:09:36 EST 2014 
+
+
+LEO 
+HEALTH:-40
+Recorded on: Sat Dec  6 11:09:36 EST 2014 
+
+You killed LEO !
+Recorded on: Sat Dec  6 11:09:38 EST 2014 
+
+You have moved north
+Recorded on: Sat Dec  6 11:09:41 EST 2014 
+
+You have moved south
+Recorded on: Sat Dec  6 11:09:44 EST 2014 
+

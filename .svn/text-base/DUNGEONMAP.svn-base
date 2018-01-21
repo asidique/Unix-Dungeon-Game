@@ -1,0 +1,165 @@
+tput cup 10 0
+echo -e "--  --\n"   1    "\n------"
+
+tput cup 6 1
+echo -e "|---|"
+tput cup 7 1
+echo -e "|   |"
+tput cup 8 1
+echo -e "|1 C|"
+tput cup 9 1
+echo -e "|   |"
+
+tput cup 10 6
+echo -e "--  --"
+tput cup 11 6
+echo "   2M   "
+tput cup 12 6
+echo "--  --"
+
+tput cup 13 7
+echo -e "|   |"
+tput cup 14 7
+echo -e "|-1 |"
+tput cup 15 7
+echo -e "|   |"
+tput cup 16 7
+echo -e "|---|"
+
+tput cup 9 7
+echo -e "|   |"
+tput cup 8 7
+echo -e "|1  |"
+tput cup 7 7
+echo -e "|   |"
+tput cup 6 7
+echo -e "|---|"
+
+tput cup 10 12
+echo -e "------"
+tput cup 11 12
+echo "   3    "
+tput cup 12 12
+echo "--  --"
+
+tput cup 13 13
+echo -e "|   |"
+tput cup 14 13
+echo -e "|-1T|"
+tput cup 15 13
+echo -e "|   |"
+tput cup 16 13
+echo -e "|---|"
+
+tput cup 10 17
+echo -e "--  --"
+tput cup 11 17
+echo "   4    "
+tput cup 12 17
+echo "------"
+
+tput cup 9 18
+echo -e "|1 M|"
+tput cup 8 18
+echo -e "|---|"
+tput cup 7 18
+echo -e "|2 C|"
+tput cup 6 18
+echo -e "|---|"
+
+tput cup 10 22
+echo -e "------"
+tput cup 11 22
+echo "   5    "
+tput cup 12 22
+echo "--  --"
+
+tput cup 13 23
+echo -e "|   |"
+tput cup 14 23
+echo -e "|-1 |"
+tput cup 15 23
+echo -e "|   |"
+tput cup 16 23
+echo -e "|---|"
+
+tput cup 10 28
+echo -e "--  --"
+tput cup 11 28
+echo "   6T    "
+tput cup 12 28
+echo "------"
+
+tput cup 6 29
+echo -e "|---|"
+tput cup 7 29
+echo -e "|2  |"
+tput cup 8 29
+echo -e "|---|"
+tput cup 9 29
+echo -e "|1 M|"
+
+tput cup 10 34
+echo -e "------"
+tput cup 11 34
+echo "   7    "
+tput cup 12 34
+echo "--  --"
+
+tput cup 13 35
+echo -e "|-1M|"
+tput cup 14 35
+echo -e "|---|"
+tput cup 15 35
+echo -e "|-2 |"
+tput cup 16 35
+echo -e "|---|"
+
+tput cup 10 40
+echo -e "------"
+tput cup 11 40
+echo "   8    "
+tput cup 12 40
+echo "------"
+
+tput cup 10 46
+echo -e "--  --"
+tput cup 11 46
+echo "   9    "
+tput cup 12 46
+echo "------"
+
+tput cup 6 47
+echo -e "|---|"
+tput cup 7 47
+echo -e "|2 C|"
+tput cup 8 47
+echo -e "|---|"
+tput cup 9 47
+echo -e "|1 T|"
+
+tput cup 10 52
+echo -e "---------"
+tput cup 11 52
+echo "  ?M?   \|"
+tput cup 12 52
+echo "---------"
+
+tput cup 6 60
+echo -e "SOUTH<---->NORTH"
+tput cup 4 60
+echo -e "        ^EAST  "
+tput cup 5 60
+echo -e "        |   "
+tput cup 7 60
+echo -e "        |   "
+tput cup 8 60
+echo -e "        \/WEST  "
+
+tput cup 12 70
+echo -e "M = MONSTER"
+tput cup 13 70
+echo -e "T = TRAP"
+tput cup 14 70
+echo -e "C = CHEST"
+tput cup 20 0

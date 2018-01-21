@@ -1,0 +1,24 @@
+PLAYERNAME:HEALTH:WEAPON:ARMOUR:MAGIC
+
+let health=`cut -f2 player.dat` #Gives me the health
+
+healthrec=$health
+
+health-=50
+
+sed -e "/$healthrec/$health/ig" player.dat
+
+
+#PlayerClass
+
+
+
+
+
+set OPTIONS="You may:
+Look
+Move(North,East,South,West)
+Attack
+Magic
+Defend
+Exit"

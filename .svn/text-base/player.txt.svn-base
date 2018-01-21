@@ -1,0 +1,27 @@
+#PlayerClass
+
+if [ "$INPUT" == "Look" ]
+then
+	echo "RoomDescription"
+done
+
+if [ "$INPUT" == "Attack" ] 
+then 
+	echo "AttackDescription"
+	enemyhealth -= 10
+done
+
+if [ "$INPUT" == "Magic" ]
+then
+	echo MagicDescription"
+	enemyhealth-=15
+done
+
+case "$INPUT" in
+
+"NORTH") 
+"EAST")
+"SOUTH")
+"WEST")
+
+esac

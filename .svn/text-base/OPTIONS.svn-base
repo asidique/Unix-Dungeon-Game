@@ -1,0 +1,1 @@
+echo -e "\nYou may:\nLook\nMove(North,South,East,West)\nAttack\nMagic\nDefend\nStats\nInfo\nHelp\nClear\nExit\n"

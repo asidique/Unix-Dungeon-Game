@@ -1,0 +1,231 @@
+clear
+tput cup 5 50
+echo "^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
+tput cup 6 50
+echo "---------------------------------"
+
+tput cup 9 57
+echo "==================="
+
+tput cup 10 57
+echo "||"
+
+tput cup 11 57
+echo "||"
+
+tput cup 12 57
+echo "||"
+
+tput cup 10 60
+echo "||"
+
+tput cup 11 60
+echo "||"
+
+tput cup 12 60
+echo "||"
+
+tput cup 10 63
+echo "||"
+
+tput cup 11 63
+echo "||"
+
+tput cup 12 63
+echo "||"
+
+tput cup 10 66
+echo "||"
+
+tput cup 11 66
+echo "||"
+
+tput cup 12 66
+echo "||"
+
+tput cup 10 69
+echo "||"
+
+tput cup 11 69
+echo "||"
+
+tput cup 12 69
+echo "||"
+
+tput cup 10 72
+echo "||"
+
+tput cup 11 72
+echo "||"
+
+tput cup 12 72
+echo "||"
+tput cup 10 75
+echo "||"
+
+tput cup 11 75
+echo "||"
+
+tput cup 12 75
+echo "||"
+
+tput cup 13 57
+echo "==================="
+
+tput cup 27 50
+echo "^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
+tput cup 26 50
+echo "---------------------------------"
+
+tput cup 14 70
+echo " ____ "
+tput cup 15 70
+echo "/    |"
+tput cup 16 70
+echo " ____)"
+tput cup 17 70
+echo "|    |"
+tput cup 18 70
+echo "|____|"
+tput cup 17 73
+echo "8"
+tput cup 7 50
+echo "{  |"
+
+tput cup 8 50
+echo "{  |"
+
+tput cup 9 50
+echo "{  |"
+
+tput cup 10 50
+echo "{  |"
+
+tput cup 11 50
+echo "{  |"
+
+tput cup 12 50
+echo "{  |"
+
+tput cup 13 50
+echo "{  |"
+
+tput cup 14 50
+echo "{  |"
+
+tput cup 15 50
+echo "{  |"
+
+tput cup 16 50
+echo "{  |"
+
+tput cup 17 50
+echo "{  |"
+
+tput cup 18 50
+echo "{  |"
+
+tput cup 19 50
+echo "{  |"
+
+tput cup 20 50
+echo "{  |"
+
+tput cup 21 50
+echo "{  |"
+
+tput cup 22 50
+echo "{  |"
+
+tput cup 23 50
+echo "{  |"
+
+tput cup 24 50
+echo "{  |"
+
+tput cup 25 50
+echo "{  |"
+
+tput cup 7 80
+echo "|  }"
+
+tput cup 8 80
+echo "|  }"
+
+tput cup 9 80
+echo "|  }"
+
+tput cup 10 80
+echo "|  }"
+
+tput cup 11 80
+echo "|  }"
+
+tput cup 12 80
+echo "|  }"
+
+tput cup 13 80
+echo "|  }"
+
+tput cup 14 80
+echo "|  }"
+
+tput cup 15 80
+echo "|  }"
+
+tput cup 16 80
+echo "|  }"
+
+tput cup 17 80
+echo "|  }"
+
+tput cup 18 80
+echo "|  }"
+
+tput cup 19 80
+echo "|  }"
+
+tput cup 20 80
+echo "|  }"
+
+tput cup 21 80
+echo "|  }"
+
+tput cup 22 80
+echo "|  }"
+
+tput cup 23 80
+echo "|  }"
+
+tput cup 24 80
+echo "|  }"
+
+tput cup 25 80
+echo "|  }"
+
+tput cup 10 25
+echo "\   /  -----  |    |"
+
+tput cup 11 25
+echo " \ /   |    | |    |"
+
+tput cup 12 25
+echo "  |    _____  _____"
+
+tput cup 13 25
+echo "  |                 "
+
+tput cup 15 25
+echo "\  _  /  _____   _    _"
+
+tput cup 16 25
+echo " \/ \/     |    /  \ /"
+
+tput cup 17 25
+echo "         __|__ -    - "
+
+tput cup 20 25
+echo "MADE BY: ASSEEL SIDIQUE"
+
+tput cup 21 25
+echo "N01063455"
