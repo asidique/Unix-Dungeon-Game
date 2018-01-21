@@ -1,0 +1,26 @@
+echo -e "This is the help guide for Asseel's Dungeon."
+sleep 2
+echo -e "\nYour OPTIONS that you may perform at any time are:"
+sleep 1
+echo -e "\nLook - Provides Room Description"
+sleep 1
+echo -e "\nAttack - Use Attack Action"
+sleep 1
+echo -e "\nMagic - Use Magic Powers"
+sleep 1
+echo -e "\nMove - To Move To A Different Room. Must provide Move and then a Direction"
+echo -e "\n(North,East,West,South)"
+sleep 1
+echo -e "\nDefend - Use to defend against monsters"
+sleep 1
+echo -e "\nClear - Used to clear the screen if it gets too crowded"
+sleep 1
+echo -e "\nStats - Used to check your stats during the game"
+sleep 1
+echo -e "\nInfo - Used to display all item information for user"
+sleep 1
+echo -e "\nExit - exit the game"
+sleep 2
+echo -e "type Help to view these options again"
+sleep 2
+echo -e "\n\nA co-ordinate system is provided to you so that you find your way around the dungeon, but becareful!\nThere are many traps, dead ends and monsters. Good Luck fellow dungeoneer!"

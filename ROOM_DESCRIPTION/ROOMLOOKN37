@@ -1,0 +1,9 @@
+echo -e "You found a key! But for what?
+
+The rest of the room is empty.
+
+To your north is a wall.
+To your south is a wall.
+To your east is a bookshelf.
+To your west is a wall.
+"

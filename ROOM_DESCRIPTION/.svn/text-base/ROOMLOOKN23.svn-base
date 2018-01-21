@@ -1,0 +1,10 @@
+echo -e "
+You were tricked into a trap! You've fallen down a hole with 3 skeletons inside. Seems as if you weren't the only foolish one. Use magic or attack to get you out!. 
+
+The room is dark and empty. Nothing useful here.
+
+To your north is a wall.
+To your south is a wall.
+To your east is a door that reads 'Can't trust everyone'
+To your west is a wall.
+"

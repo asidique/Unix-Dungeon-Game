@@ -1,0 +1,7 @@
+echo -e "An empty room. You should probably go back...
+
+To your north is a wall.
+To your south is a wall.
+To your east is a fence.
+To your west is a wall.
+"

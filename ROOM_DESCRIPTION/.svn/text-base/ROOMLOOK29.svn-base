@@ -1,0 +1,9 @@
+echo -e "You enter a room and are disappointed when you fall into a net trap. You look back at the door you came from and it reads '...'. So close to the exit and you blew it! Good job. Try using magic or attack to get out.
+
+In the room you also see another shiny door that reads 'Treasure is in here fool!' but do you trust it? It could be another trap... or even worse, a monster! 
+
+To your north is a wall.
+To your south is a wall.
+To your east is a shiny door that reads, 'Treasure is in here fool!'
+To your west is a shiny door that reads '...'
+"

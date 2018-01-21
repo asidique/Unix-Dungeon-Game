@@ -1,0 +1,37 @@
+tput cup 14 37
+echo "Our story begins and it packs quite a scare,"
+
+tput cup 15 37 
+echo "So enter Asseel's Dungeon, if you dare."
+
+sleep 2
+
+tput cup 16 51
+echo "Let's begin"
+
+sleep 2
+
+tput cup 17 0
+echo -e "You are stranded and alone.
+Nothing in sight but trees.
+The battery is drained on your phone,
+As you fall to your knees."
+sleep 3
+echo -e "\nYou feel your heart plunging.
+Is this what it really seems?
+A sign read's ASSEEL'S DUNGEON,
+Staring unto thee."
+sleep 3
+echo -e "\nColdness grows, as does your temper.
+From the Coldness, you must flee.
+You swing the door and enter.
+As the Coldness in your body frees."
+sleep 3 
+echo -e "\nYour vision disappears.
+Am I awake or am I asleep?
+You walk blindly full of tears.
+As cold stone touches your feet."
+
+sleep 3
+
+echo -e "\nWhat is your name, stranded player?"

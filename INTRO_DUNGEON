@@ -1,0 +1,278 @@
+tput cup 3 43
+echo "WELCOME TO ASSEEL'S DUNGEON"
+
+tput cup 2 40
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+tput cup 4 40
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+tput cup 3 40
+echo "{"
+
+tput cup 3 72
+echo "}"
+
+tput cup 12 20
+echo "_-"
+
+tput cup 11 21
+echo "_-"
+
+tput cup 10 22
+echo "_-"
+
+tput cup 9 23
+echo "_-"
+
+tput cup 8 24
+echo "_-"
+
+tput cup 7 25
+echo "_-"
+
+tput cup 6 26
+echo "_-"
+
+tput cup 5 27
+echo "_-"
+
+tput cup 5 28
+echo "========================================================="
+
+tput cup 5 85
+echo "-_"
+
+tput cup 6 86
+echo "-_"
+
+tput cup 7 87
+echo "-_"
+
+tput cup 8 88
+echo "-_"
+
+tput cup 9 89
+echo "-_"
+
+tput cup 10 90
+echo "-_"
+
+tput cup 11 91
+echo "-_"
+
+tput cup 12 92
+echo "-_"
+
+tput cup 6 36
+echo "| |"
+
+tput cup 7 36
+echo "| |"
+
+tput cup 8 36
+echo "| |"
+
+tput cup 9 36
+echo "| |"
+
+tput cup 10 36
+echo "| |"
+
+tput cup 11 36
+echo "| |"
+
+tput cup 12 36
+echo "| |"
+
+tput cup 6 46
+echo "| |"
+
+tput cup 7 46
+echo "| |"
+
+tput cup 8 46
+echo "| |"
+
+tput cup 9 46
+echo "| |"
+
+tput cup 10 46
+echo "| |"
+
+tput cup 11 46
+echo "| |"
+
+tput cup 12 46
+echo "| |"
+
+tput cup 6 56
+echo "| |"
+
+tput cup 7 56
+echo "| |"
+
+tput cup 8 56
+echo "| |"
+
+tput cup 9 56
+echo "| |"
+
+tput cup 10 56
+echo "| |"
+
+tput cup 11 56
+echo "| |"
+
+tput cup 12 56
+echo "| |"
+
+tput cup 6 66
+echo "| |"
+
+tput cup 7 66
+echo "| |"
+
+tput cup 8 66
+echo "| |"
+
+tput cup 9 66
+echo "| |"
+
+tput cup 10 66
+echo "| |"
+
+tput cup 11 66
+echo "| |"
+
+tput cup 12 66
+echo "| |"
+
+tput cup 6 76
+echo "| |"
+
+tput cup 7 76
+echo "| |"
+
+tput cup 8 76
+echo "| |"
+
+tput cup 9 76
+echo "| |"
+
+tput cup 10 76
+echo "| |"
+
+tput cup 11 76
+echo "| |"
+
+tput cup 12 76
+echo "| |"
+
+tput cup 13 21
+echo "<>"
+
+tput cup 13 23
+echo "<>"
+
+tput cup 13 25
+echo "<>"
+
+tput cup 13 27
+echo "<>"
+
+tput cup 13 29
+echo "<>"
+
+tput cup 13 31
+echo "<>"
+
+tput cup 13 33
+echo "<>"
+
+tput cup 13 35
+echo "<>"
+
+tput cup 13 37
+echo "<>"
+
+tput cup 13 39
+echo "<>"
+
+tput cup 13 41
+echo "<>"
+
+tput cup 13 43
+echo "<>"
+
+tput cup 13 45
+echo "<>"
+
+tput cup 13 47
+echo "<>"
+
+tput cup 13 49
+echo "<>"
+
+tput cup 13 51
+echo "<>"
+
+tput cup 13 53
+echo "<>"
+
+tput cup 13 55
+echo "<>"
+
+tput cup 13 57
+echo "<>"
+
+tput cup 13 59
+echo "<>"
+
+tput cup 13 61
+echo "<>"
+
+tput cup 13 63
+echo "<>"
+
+tput cup 13 65
+echo "<>"
+
+tput cup 13 67
+echo "<>"
+
+tput cup 13 69
+echo "<>"
+
+tput cup 13 71
+echo "<>"
+
+tput cup 13 73
+echo "<>"
+
+tput cup 13 75
+echo "<>"
+
+tput cup 13 77
+echo "<>"
+
+tput cup 13 79
+echo "<>"
+
+tput cup 13 81
+echo "<>"
+
+tput cup 13 83
+echo "<>"
+
+tput cup 13 85
+echo "<>"
+
+tput cup 13 87
+echo "<>"
+
+tput cup 13 89
+echo "<>"
+
+tput cup 13 91
+echo "<>"
